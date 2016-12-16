@@ -1,0 +1,8 @@
+ Caso o programa não instale ou não funcione
+ Instale o Framework: NDP452-KB2901907-x86-x64-AllOS-ENU
+                Microsoft .Net Framework 4.5.2
+
+Caso o instalador BINGO 0.0.1.exe não funcione
+Abra a pasta Release e tente instalar clicando em Bingo.application,
+Tipo = Manifesto de Implantação do Aplicativo ClickOne.
+É o primeiro embaixo da pasta app.publish
